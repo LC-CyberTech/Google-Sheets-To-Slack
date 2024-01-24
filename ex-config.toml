@@ -1,0 +1,5 @@
+slack_url = "https://foo.bar"
+sheet_urls = [
+    "foo1",
+    "foo 2"
+]
