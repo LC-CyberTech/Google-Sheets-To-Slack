@@ -1,3 +1,6 @@
+# Warning
+this is unfinished
+
 # Google-Sheets-To-Slack
 Turn google form submissions into slack notifications
 
